@@ -37,7 +37,7 @@ languageContent = {
         title: "About BSP",
         description: {
             p1: "The Bahujan Samaj Party stands for the social transformation and economic emancipation of the Bahujan Samaj, which comprises the Scheduled Castes (SC), Scheduled Tribes (ST), and Other Backward Castes (OBC). Inspired by the philosophy of Babasaheb Dr. Bhimrao Ambedkar, we work towards creating an egalitarian society.",
-            p2: "Inspired by the philosophies of great social reformers like Dr. B. R. Ambedkar, Jyotirao Phule, Narayana Guru, Chhatrapati Shahuji Maharaj, and Gautama Buddha, the BSP stands as a beacon of empowerment for the oppressed. Rooted in the ideals of equality, justice, and constitutional rights, the party seeks to uplift and unite these diverse sections of society, ensuring their rightful place in India’s democratic framework.",
+            p2: "Inspired by the philosophies of great social reformers like Babasaheb Dr. B. R. Ambedkar, Jyotirao Phule, Narayana Guru, Chhatrapati Shahuji Maharaj, and Gautama Buddha, the BSP stands as a beacon of empowerment for the oppressed. Rooted in the ideals of equality, justice, and constitutional rights, the party seeks to uplift and unite these diverse sections of society, ensuring their rightful place in India’s democratic framework.",
             p3: "At the heart of the BSP’s ideology is the fight against caste-based discrimination and the promotion of welfare for the Bahujan community, extending its reach to include all marginalized groups across India. The BSP envisions a society where every individual, irrespective of caste, creed, or religion, is entitled to equal opportunities, dignity, and justice."
         },
         mission: {
@@ -123,8 +123,8 @@ languageContent = {
                 description: "Behen Kumari. Mayawati attends Monsoon Session of Parliament and responds publicly to RSS Chief's comments on reservation, defending constitutional rights."
             },
             {
-                title: "Ambedkar Anniversary Rally",
-                description: "Massive rally in Lucknow on 61st death anniversary of Dr. Ambedkar, with party review meetings to prepare for 2017 elections."
+                title: "BabaSaheb Ambedkar Anniversary Rally",
+                description: "Massive rally in Lucknow on 61st death anniversary of Babasaheb Dr. Ambedkar, with party review meetings to prepare for 2017 elections."
             },
             {
                 title: "Electoral Campaign",
@@ -157,7 +157,7 @@ languageContent = {
             },
             {
                 id: "event2",
-                title: "Ambedkar Jayanti Celebration",
+                title: "BabaSaheb Ambedkar Jayanti Celebration",
                 description: "Join us for the grand celebration of Babasaheb Dr. Bhimrao Ambedkar's birth anniversary with rallies and cultural programs across all states.",
                 date: "Dec 2024",
                 contentTitle: "Celebrating the Legacy of Babasaheb Dr. Bhimrao Ambedkar",
@@ -223,7 +223,7 @@ languageContent = {
             },
             {
                 question: "Who founded BSP and when?",
-                answer: "BSP was founded by Manyavar Kanshi Ram on April 14, 1984 (Dr. Ambedkar's birth anniversary). The party was established to provide political representation to the Bahujan Samaj and implement Dr. Ambedkar's vision of social justice."
+                answer: "BSP was founded by Manyavar Kanshi Ram on April 14, 1984 (BabaSaheb Dr. Ambedkar's birth anniversary). The party was established to provide political representation to the Bahujan Samaj and implement Dr. Ambedkar's vision of social justice."
             },
             {
                 question: "What is the party symbol and what does it represent?",
@@ -295,5 +295,6 @@ window.galleryTranslations = {
 // Update the page content immediately when this file loads
 if (typeof updatePageContent === 'function') { updatePageContent(); }
 if (typeof updateGalleryContent === 'function') updateGalleryContent();
+
 
 console.log('English language content loaded and applied');
